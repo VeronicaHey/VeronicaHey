@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VeronicaHey
 - 👀 I’m interested in new technology for GPS Mapping and GIS
-- 🌱 I’m currently learning that there are new challenges around every corner:)
 - 📫 How to reach me veronica@okaway.co
 
 <!---
